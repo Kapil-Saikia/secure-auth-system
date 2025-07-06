@@ -61,6 +61,9 @@ python app.py
 # App will run locally at: http://127.0.0.1:5000
 ```
 
-📌 Author
-Kapil Saikia
-B.Tech CSE Final Year Student
+## 🙋‍♂️ Author
+
+**Kapil Saikia**  
+B.Tech CSE – 4th Year Student  
+🔗 [GitHub Profile](https://github.com/Kapil-Saikia)
+
